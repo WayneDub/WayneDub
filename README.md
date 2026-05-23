@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Wayne, A computer science student turned cybersecurity specialist. 
 <!--
 **WayneDub/WayneDub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
