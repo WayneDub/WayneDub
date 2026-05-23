@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Wayne, A computer science student turned cybersecurity specialist. 
+I'm Wayne, a Computer Science Student by day and a Software Developer Intern/Cybersecurity Support Technician also by day. Nothing by night, I need my sleep unless I'm excited about a project. 
 <!--
 **WayneDub/WayneDub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
